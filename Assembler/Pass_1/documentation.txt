@@ -9,7 +9,3 @@ contains no errors, then the symbol list is printed. Once printed, the symbol li
 node, and the program exits. 
 
     If an error is located at any point, the program prints the error and which at line it was found in the file.
-I was not able to get the program to insert symbols to the list, and I was not able to get the list to print 
-successfully, although the debug statements would show that the program was able to execute the functions and return from them.
-This projrect was stressful, but the learning that I achieved during the development of this project was great.
-
